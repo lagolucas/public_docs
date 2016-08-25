@@ -1,3 +1,7 @@
+---
+Title: Metadado
+---
+
 **Art. 1º** A República Federativa do Brasil, formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em Estado democrático de direito e tem como fundamentos:
 * I - a soberania;
 * II - a cidadania;
